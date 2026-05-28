@@ -2,6 +2,8 @@
 
 > A gallery of intentionally hostile UI components. Interact with each one, then read the source.
 
+**Live:** [annoyingui.vercel.app](https://annoyingui.vercel.app)
+
 Inspired by [r/badUIbattles](https://www.reddit.com/r/badUIbattles/), [userinyerface.com](https://userinyerface.com/), and every form you've ever rage-quit.
 
 ## What's in here
